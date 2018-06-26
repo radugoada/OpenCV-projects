@@ -1,5 +1,6 @@
 # OpenCV-ImageConverter
 
+# How to use
 Download and install cmake for MacOS
 Configure cmake through terminal
 Use cmake .
